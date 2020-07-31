@@ -145,7 +145,7 @@ xkb_symbols "laptopvariant" {
     key <AE08> {[            8,  parenleft                 ]};
     key <AE09> {[            9, parenright                 ]};
     key <AE10> {[            0,      equal                 ]};
-    key <AE11> {[     question, apostrophe                 ]};
+    key <AE11> {[   apostrophe,   question                 ]};
     key <AE12> {[ questiondown, exclamdown                 ]};
 
     key <AD01> {[           q,           Q               ]};
